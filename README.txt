@@ -15,5 +15,4 @@ Install XAMPP Control Panel in your PC/ machines.
 ---------Process Happens-----------
 After the successful login, the server generates the Session ID and CSRF token. When user log out the session the generated Session ID and CSRF token are deleted from the server.
 
---------URL of the Blog-------
-https://aperame.blogspot.com/p/double-submit-cookie-pattern.html
+
